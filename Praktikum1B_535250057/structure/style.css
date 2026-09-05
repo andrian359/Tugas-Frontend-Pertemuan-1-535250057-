@@ -1,0 +1,42 @@
+/* file: style.css */
+/* Udah gue ganti ke nama warna doang, puas lu? */
+
+body{
+  margin:0;
+  font-family: 'Courier New', Courier, monospace; 
+  background-color: whitesmoke; 
+}
+
+header {
+    padding: 35px; 
+    text-align: center;
+    background: pink; 
+    color: black;
+}
+
+nav  {
+  padding: 12px; 
+  text-align: center;
+  background-color: gray; 
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+article{
+  padding:25px; 
+    max-width: 800px; 
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid silver; 
+}
+
+footer {
+    padding: 20px;
+  text-align: center;
+  background: pink; 
+    margin-top: 30px;
+}
